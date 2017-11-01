@@ -52,10 +52,6 @@ attr_reader :starting_journey
     @finish_station
   end
 
-  def penalty
-    @starting_journey != nil & in_journey?
-  end
-
   def in_journey?
     !!@starting_journey
   end

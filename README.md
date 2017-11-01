@@ -1,4 +1,4 @@
-# oystercard
+# Oystercard [![Build Status](https://travis-ci.org/cristhiandas/oystercard.svg?branch=master)](https://travis-ci.org/cristhiandas/oystercard)
 
 ### Domain Models
 

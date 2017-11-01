@@ -8,4 +8,5 @@ ruby '2.4.1' #:patchlevel => '2017-03-22 revision 58053'
 
 group :test, :development do
   gem 'rspec'
+  gem 'simplecov', require: false
 end

@@ -17,4 +17,3 @@
 NameError : Uninitialized constant Oystercard
 File path: ./spec/oystercard_spec.rb
 Line number: 3
->>>>>>> 340bcf2f28cc9631bb32e24d265b4c780710e6a3
